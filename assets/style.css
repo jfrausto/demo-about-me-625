@@ -1,0 +1,16 @@
+header {
+  background-color: teal;
+  color: white;
+}
+
+.aboutMe {
+  float: left;
+}
+
+.contactInfo {
+  float: right;
+}
+
+.me {
+  float: left;
+}
