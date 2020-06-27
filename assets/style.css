@@ -17,7 +17,7 @@ section {
 
 div {
   margin: 5px;
-  width: 600px;
+  width: 33%;
   height: 100%;
 }
 
@@ -30,12 +30,11 @@ div {
 
 .middle {
   float: left;
-  width: 400px;
   margin-top: 85px;
+  margin-left: 20px;
 }
 
 .right {
   float: left;
-  margin-left: 100px;
-  width: 400px;
+  margin-left: 50px;
 }
