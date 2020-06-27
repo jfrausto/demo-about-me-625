@@ -1,16 +1,41 @@
 header {
   background-color: teal;
   color: white;
+  text-align: center;
 }
 
-.aboutMe {
+h3 {
+  clear: left;
+}
+
+section {
+  border: 2px solid black;
+  width: 100%;
   float: left;
+  background-color: wheat;
 }
 
-.contactInfo {
-  float: right;
+div {
+  margin: 5px;
+  width: 600px;
+  height: 100%;
 }
 
-.me {
+.left {
   float: left;
+  background: round;
+  background-color: wheat;
+  width: fit-content;
+}
+
+.middle {
+  float: left;
+  width: 400px;
+  margin-top: 85px;
+}
+
+.right {
+  float: left;
+  margin-left: 100px;
+  width: 400px;
 }
